@@ -290,6 +290,23 @@ body {
   gap: 16px;
 }
 
+.job-header-prior {
+  padding-left: 68px;
+  margin-top: -6px;
+  margin-bottom: 16px;
+}
+
+.job-prior-title {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.job-dates.job-dates-muted {
+  color: var(--muted);
+  background: #eef2f7;
+}
+
 .job-logo {
   width: 52px;
   height: 52px;
